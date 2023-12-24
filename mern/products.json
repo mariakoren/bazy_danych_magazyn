@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Digital Camera",
+      "price": 800,
+      "description": "Professional camera for filming and photography",
+      "quantity": 15,
+      "unit": "pcs"
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": 150,
+      "description": "Comfortable headphones with excellent sound",
+      "quantity": 30,
+      "unit": "pcs"
+    },
+    {
+      "name": "Coffee Maker",
+      "price": 300,
+      "description": "Modern coffee maker for preparing aromatic coffee",
+      "quantity": 8,
+      "unit": "pcs"
+    },
+    {
+      "name": "Smartwatch",
+      "price": 200,
+      "description": "Elegant watch with smartwatch features",
+      "quantity": 25,
+      "unit": "pcs"
+    },
+    {
+      "name": "Game Console",
+      "price": 500,
+      "description": "Latest console with a rich library of games",
+      "quantity": 12,
+      "unit": "pcs"
+    },
+    {
+      "name": "Robot Vacuum Cleaner",
+      "price": 350,
+      "description": "Intelligent vacuum cleaner that cleans the apartment on its own",
+      "quantity": 18,
+      "unit": "pcs"
+    },
+    {
+      "name": "Computer Monitor",
+      "price": 250,
+      "description": "High-quality monitor for work and entertainment",
+      "quantity": 20,
+      "unit": "pcs"
+    },
+    {
+      "name": "Microwave Oven",
+      "price": 120,
+      "description": "Practical microwave oven for quickly reheating food",
+      "quantity": 15,
+      "unit": "pcs"
+    },
+    {
+      "name": "Exercise Bike",
+      "price": 180,
+      "description": "Equipment for active training at home",
+      "quantity": 22,
+      "unit": "pcs"
+    },
+    {
+      "name": "Hair Dryer",
+      "price": 50,
+      "description": "Effective hair dryer for styling",
+      "quantity": 28,
+      "unit": "pcs"
+    }
+  ]
