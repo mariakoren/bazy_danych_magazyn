@@ -15,7 +15,7 @@ const connectDb = async () => {
   }
 };
 
-const getDb = () => _db.db("products");
+const getDb = () => _db;
 
 module.exports = {
   connectDb,
